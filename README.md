@@ -1,1 +1,1 @@
-Object Detection Using YOLO-V8
+Object Detection Using YOLO-V8 Latest
